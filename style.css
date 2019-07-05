@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 body {
-  background-color: teal
+  background-color: 
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
   font-size: 18px;
@@ -14,7 +14,14 @@ body {
 h1 {
   font-family: "Arial", sans-serif;
   font-size: 32px;
-  color: hotpink
+  color: skyblue
 }
-h2 {font-family: "Great Vibes" cursive,  }
+h2 {
+  font-family: "Arial", sans-serif;
+  font-size: 25px; 
+  color: plum}
+h3 { 
+  font-family: "Arial", sans-serif;
+  font-size: "Arial", sans-serif;
+  color: navy}
   
